@@ -1,6 +1,6 @@
 <h1 align="center"><b>Olá Desenvolvedores</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Eu+sou+o+João+Pedro+&hearts;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Eu+sou+o+João+Pedro+&star;"></a>
 </p>
 
 
@@ -12,8 +12,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mim**
 <br>
 
-- Sou o desenvolvedor Full Stack em construção através da 
-    <a href="https://www.growdev.com.br/"target="_blank">Growdev</a>
+- Sou o desenvolvedor Full Stack em construção através da https://www.growdev.com.br/
 - Trabalhei com manutação industrial, construção civil e Motorista de aplicativo
 - Gamer nas horas vagas
 - Apaixonado por futebol (Vascaíno)
